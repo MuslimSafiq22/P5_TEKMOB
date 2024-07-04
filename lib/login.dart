@@ -19,8 +19,8 @@ class _LoginPageState extends State<LoginPage> {
     return Material(
       child: Scaffold(
         appBar: AppBar(
-          leading: Image.asset('assets/logo-rivan.png'),
-          title: Text('Rivan Alamsyah'),
+          leading: Image.asset('assets/logo_1.png'),
+          title: Text('Muslim Safiq'),
         ),
         body: SafeArea(
           child: Padding(
